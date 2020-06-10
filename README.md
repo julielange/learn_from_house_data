@@ -4,4 +4,5 @@ This repository focuses on data from house market in King County, Washington to 
 
 It includes cleanig and restructuring of the dataset to prepare for a linear regression model. Also graphical and non-graphical data analysis are used to learn more about each variable distribution and how they may affect house prices in King County. 
 
+
 ![alt text](https://github.com/julielange/learn_from_house_data/blob/master/src/map.png)
